@@ -8,13 +8,13 @@ export interface Photo {
 export const photos: Photo[] = [
   {
     id: 1,
-    url: "/assets/photo1.jpg",
+    url: "/assets/temp1.jpg",
     location: "Balangir, India",
     date: "Jan 2024"
   },
   {
     id: 2,
-    url: "/assets/photo2.jpg",
+    url: "/assets/temp2.jpg",
     location: "Balangir, India",
     date: "Dec 2023"
   },
