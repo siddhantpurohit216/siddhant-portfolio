@@ -1,5 +1,6 @@
 import { motion } from 'motion/react';
 import { Github, Linkedin, Download } from 'lucide-react';
+import { SiLeetcode } from "react-icons/si";
 
 export default function Hero() {
   return (
@@ -67,6 +68,16 @@ export default function Hero() {
             >
               <Linkedin size={24} />
             </a>
+
+             <a 
+    href="https://leetcode.com/u/siddhantpurohit217/" 
+    target="_blank" 
+    rel="noreferrer"
+    className="p-3 glass rounded-full hover:text-accent transition-all hover:scale-110"
+  >
+    <SiLeetcode size={24} />
+    </a>
+
           </div>
         </motion.div>
       </div>

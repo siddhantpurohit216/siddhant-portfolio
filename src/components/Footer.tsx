@@ -11,10 +11,7 @@ export default function Footer() {
           <a href="https://www.linkedin.com/in/siddhantpurohit216/" target="_blank" rel="noreferrer" className="text-text-secondary hover:text-accent transition-colors">
             <Linkedin size={20} />
           </a>
-          <a href="https://twitter.com" target="_blank" rel="noreferrer" className="text-text-secondary hover:text-accent transition-colors">
-            <Twitter size={20} />
-          </a>
-          <a href="mailto:contact@example.com" className="text-text-secondary hover:text-accent transition-colors">
+          <a href="mailto:siddhantpurohit216@gmail.com" className="text-text-secondary hover:text-accent transition-colors">
             <Mail size={20} />
           </a>
         </div>
